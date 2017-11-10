@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>这是首页</title>
+    <link rel="stylesheet" href="/static/css/main.css">
+    <script src="/static/js/jquery.min.js"></script>
+</head>
+<body>
+    <div id="box">
+        <a href="">已有账号去登录</a>
+        用户名：<input type="text" id="name" name="userName" value="555">
+        密码：<input type="text" name="password">
+        确认密码：<input type="text" name="repassword">
+        <button id="submit">提交</button>
+    </div>
+    <script>
+
+        $('#submit').click(function(){
+            var name=$("[name=userName]").val();
+            var pas=$("[name=password]").val();
+            var repas=$("[name=repassword]").val();
+            $.ajax({
+                type:'post',
+                url:'/api/user/login',
+                data:{
+                    userName:name,
+                    password:pas,
+                    repassword:repas,
+                },
+                success:function(reslut){
+                    console.log(reslut);
+                }
+            })
+        })
+    </script>
+</body>
+</html>
