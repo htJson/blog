@@ -8,8 +8,8 @@
 </head>
 <body>
     <div id="box">
-        <a href="">已有账号去登录</a>
-        用户名：<input type="text" id="name" name="userName" value="555">
+        <a href="./login">已有账号去登录</a>
+        用户名：<input type="text" id="name" name="userName" value="">
         密码：<input type="text" name="password">
         确认密码：<input type="text" name="repassword">
         <button id="submit">提交</button>
@@ -29,7 +29,8 @@
                     repassword:repas,
                 },
                 success:function(reslut){
-                    console.log(reslut);
+                    alert(reslut.message);
+                    window.location.href="/login"
                 }
             })
         })
