@@ -1,5 +1,5 @@
 const mongoose= require('mongoose');
 
-var userSchema= require('../schemas/users')
+var category_Schema= require('../schemas/category')
 
-module.exports=mongoose.model('User',userSchema)
+module.exports=mongoose.model('category',category_Schema)

@@ -15,22 +15,23 @@
         <button id="submit">提交</button>
     </div>
     <script>
-
         $('#submit').click(function(){
             var name=$("[name=userName]").val();
             var pas=$("[name=password]").val();
             var repas=$("[name=repassword]").val();
             $.ajax({
                 type:'post',
-                url:'/api/user/login',
+                url:'/api/user/register',
                 data:{
                     userName:name,
                     password:pas,
                     repassword:repas,
                 },
-                success:function(reslut){
-                    alert(reslut.message);
-                    window.location.href="/login"
+                success:function(result){
+                    alert(result.message);
+                    if(result.code==0){
+                        window.location.href="/login"
+                    }
                 }
             })
         })

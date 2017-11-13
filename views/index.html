@@ -2,9 +2,97 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>$Title$</title>
+    <title>Title</title>
+    <link rel="stylesheet" href="/static/css/main.css">
+    <link rel="stylesheet" href="/static/css/base.css">
 </head>
 <body>
-$END$
+    <div class="banner"></div>
+    <div id="nav">
+        <ul>
+            <li>首页</li>
+            <li>html</li>
+            <li>css</li>
+            <li>javscript</li>
+            <li>php</li>
+            <li>java</li>
+            <li>express</li>
+            <li>web开发</li>
+            <li>nodeJs</li>
+        </ul>
+    </div>
+    <div id="content">
+        <div class="cLeft">
+            <dl>
+                <dt></dt>
+            </dl>
+        </div>
+        <div class="cRight">
+            {% if userInfo._id %}
+            <div id="success">
+                <h2>登录成功</h2>
+                {% if userInfo.isAdmin %}
+                <p>
+                    <span>{{userInfo.username}}</span>
+                    欢迎管理员光临博客网站<a href="/admin">进入后台管理</a>
+                </p>
+                {% else %}
+                <p>
+                    <span>{{userInfo.username}}</span>
+                    欢迎光临博客网站
+                </p>
+                {% endif %}
+                <a href="javascript:;" id="logout">退出登录</a>
+            </div>
+            {%else%}
+            <div id="login">
+                <h1>用户登录</h1>
+                <ul>
+                    <li>
+                        <label>用户名:</label>
+                        <input type="text" placeholder="请填写用户名" name="userName">
+                    </li>
+                    <li>
+                        <label for="">密码:</label>
+                        <input type="password" placeholder="请填写密码" name="password">
+                    </li>
+                    <li>
+                        <button>登录</button>
+                    </li>
+                </ul>
+                <a href="javascript:;">还没账户请先注册</a>
+            </div>
+            <div id="register">
+                <h1>用户注册</h1>
+                <ul>
+                    <li>
+                        <label for="">用户名:</label>
+                        <input type="text" placeholder="请填写密码" name="userName">
+                    </li>
+                    <li>
+                        <label for="">密码:</label>
+                        <input type="password" placeholder="请填写密码" name="password">
+                    </li>
+                    <li>
+                        <label for="">确认密码:</label>
+                        <input type="password" placeholder="请填写密码" name="repassword">
+                    </li>
+                    <li>
+                        <button>注册用户</button>
+                    </li>
+                </ul>
+                <a href="javascript:;">已有账户请登录</a>
+            </div>
+            {%endif%}
+            <div id="hotList">
+                <h2>热门列表</h2>
+                <ul>
+                    <li></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <script src="/static/js/jquery.min.js"></script>
+    <script src="/static/js/main.js"></script>
 </body>
 </html>

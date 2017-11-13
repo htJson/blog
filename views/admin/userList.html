@@ -1,10 +1,38 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>$Title$</title>
-</head>
-<body>
-$END$
-</body>
-</html>
+{% extends 'layout.html'%}
+{% block main%}
+<ol class="breadcrumb">
+    <li><a href="/admin">后台首页</a></li>
+    <li><span>用户列表</span></li>
+</ol>
+<div>
+    <h2>用户列表</h2>
+</div>
+
+<table class="table table-bordered table-hover table-striped">
+    <tr>
+        <th>用户Id</th>
+        <th>用户名</th>
+        <th>密码</th>
+        <th>是否是管理员</th>
+    </tr>
+
+    {%for user in users%}
+    <tr>
+        <td>{{user._id.toString()}}</td>
+        <td>{{user.username}}</td>
+        <td>{{user.password}}</td>
+        <td>
+            {%if user.isAdmin%}是{%endif%}
+        </td>
+    </tr>
+    {%endfor%}
+
+</table>
+<nav aria-label="...">
+    <ul class="pager">
+        <li class="previous"><a href="/admin/userList?page={{page-1}}"><span aria-hidden="true">&larr;</span>上一页</a></li>
+        <li>一页{{count}}条， 每页显示2条，共{{pageCount}}页，当前{{page}}页</li>
+        <li class="next"><a href="/admin/userList?page={{page+1}}">下一页<span aria-hidden="true">&rarr;</span></a></li>
+    </ul>
+</nav>
+{%endblock%}

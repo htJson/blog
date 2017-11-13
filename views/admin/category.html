@@ -1,10 +1,35 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>$Title$</title>
-</head>
-<body>
-$END$
-</body>
-</html>
+{% extends 'layout.html' %}
+
+{% block main %}
+<ol class="breadcrumb">
+    <li><a href="/admin">后台管理系统</a></li>
+    <li class="active">分类管理</li>
+</ol>
+<table class="table table-bordered table-hover table-striped">
+    <tr>
+        <th>分类Id</th>
+        <th>分类名称</th>
+        <th>分类说明</th>
+        <th>操作</th>
+    </tr>
+
+    {%for category in categoryList%}
+    <tr>
+        <td>{{category._id.toString()}}</td>
+        <td>{{category.category_name}}</td>
+        <td>{{category.category_note}}</td>
+        <td>
+            <a href="/admin/category/edite?id={{category._id.toString()}}">编辑</a>|<a href="/admin/category/delete?id={{category._id.toString()}}">删除</a>
+        </td>
+    </tr>
+    {%endfor%}
+
+</table>
+<!--<nav aria-label="...">-->
+    <!--<ul class="pager">-->
+        <!--<li class="previous"><a href="/admin/userList?page={{page-1}}"><span aria-hidden="true">&larr;</span>上一页</a></li>-->
+        <!--<li>一页{{count}}条， 每页显示2条，共{{pageCount}}页，当前{{page}}页</li>-->
+        <!--<li class="next"><a href="/admin/userList?page={{page+1}}">下一页<span aria-hidden="true">&rarr;</span></a></li>-->
+    <!--</ul>-->
+<!--</nav>-->
+{% endblock%}

@@ -1,1 +1,36 @@
-body{background:#f00}
+
+.banner{width:100%; height:150px; background:#f00}
+#nav{ background: #fff;}
+#nav ul{text-align:center; margin:0;}
+#nav ul li{list-style: none; line-height: 30px; display: inline-block;padding:10px 35px; cursor:pointer; color:blue}
+#content{width:1024px; margin:20px auto 0; overflow: hidden;}
+.cLeft{width:70%; float:left; height:500px; background:#f00}
+.cRight{width:28%; float:right;}
+
+#success{background: #fff; padding:10px;}
+#success h2{font-size:14px;}
+#success p{font-size:13px;}
+#success span{color:blue; display: block;}
+#success a{font-size:12px; text-decoration: none;}
+
+#login{padding:0 15px; font-size:12px; background: #fff; padding:10px; margin-top:20px}
+#login h1{font-size:14px; font-weight:normal}
+#login ul{list-style: none; margin:0; padding:0px;}
+#login ul li{margin:15px 5px;}
+#login ul li label{width:55px; display:block; float:left; font-size:13px; line-height:25px;}
+#login ul li input{line-height: 15px; padding:5px;}
+#login ul li button{width:100%; line-height:30px; background: gold; border:none; color:#fff; font-size:14px;}
+#login a{font-size:14px; margin-left:5px; text-decoration: none; font-size:12px;}
+
+#register{background: #fff; margin-top:20px; padding:10px; display: none;}
+#register h1{font-size:14px; font-weight:normal; }
+#register ul {list-style:none; padding:0px; margin:0px;}
+#register ul li{margin:15px 5px;}
+#register ul li label{display: block; float:left; width:70px;font-size:13px; line-height:25px;}
+#register ul li input{line-height:15px; padding:5px;}
+#register ul li button{width:100%; background: gold; border:none; font-size:14px; color:#fff; line-height: 30px;}
+#register a{font-size:14px; margin-left:5px; text-decoration: none; font-size:12px;}
+
+#hotList{margin-top:20px; background: #fff; padding:10px;}
+#hotList h2{font-size:14px; font-weight: normal;}
+
