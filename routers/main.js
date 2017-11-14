@@ -1,10 +1,16 @@
 const express= require('express');
 const router = express.Router();
+const categoryModel=require('../moduls/category');
 
 router.get('/',function(req,res,next){
-    res.render('index',{
-        'userInfo':req.userInfo
+    categoryModel.find().then(function(result){
+        // console.log(result,'===================')
+        res.render('index',{
+            'userInfo':req.userInfo,
+            'navs':result
+        })
     })
+
 })
 router.get('/register',function(req,res,next){
     res.render('index',{

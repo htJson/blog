@@ -36,7 +36,12 @@ router.get('/userList',function(req,res,next){
 })
 //分类列表
 router.get('/category',function(req,res,next){
-    categoryModel.find().then(function(result){
+    /*
+    *  _id字段数据库生成时，会有一个时间戳
+    *   1：代表升序
+    *   -1：代表降序
+    * */
+    categoryModel.find().sort({_id:-1}).then(function(result){
         res.render('admin/category',{
             categoryList:result
         })

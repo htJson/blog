@@ -10,15 +10,9 @@
     <div class="banner"></div>
     <div id="nav">
         <ul>
-            <li>首页</li>
-            <li>html</li>
-            <li>css</li>
-            <li>javscript</li>
-            <li>php</li>
-            <li>java</li>
-            <li>express</li>
-            <li>web开发</li>
-            <li>nodeJs</li>
+            {% for nav in navs%}
+            <li>{{nav.category_name}}</li>
+            {%endfor%}
         </ul>
     </div>
     <div id="content">
@@ -94,5 +88,10 @@
     </div>
     <script src="/static/js/jquery.min.js"></script>
     <script src="/static/js/main.js"></script>
+    <script>
+        $.get('/user/categoryTitle',{},function(data){
+
+        })
+    </script>
 </body>
 </html>

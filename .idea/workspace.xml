@@ -3,148 +3,17 @@
   <component name="ChangeListManager">
     <list id="4b288e5d-ed1c-43c9-9033-436327f345de" name="New changelist" comment="" />
     <list default="true" id="f01b9f1b-7853-467c-9569-2599f2a0b5a2" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/journal/WiredTigerLog.0000000003" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.1.3.2@router/.npminstall.done" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.1.3.2@router/HISTORY.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.1.3.2@router/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.1.3.2@router/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.1.3.2@router/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.1.3.2@router/lib/layer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.1.3.2@router/lib/route.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.1.3.2@router/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.2.1.1@array-flatten/.npminstall.done" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.2.1.1@array-flatten/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.2.1.1@array-flatten/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.2.1.1@array-flatten/array-flatten.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.2.1.1@array-flatten/array-flatten.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.2.1.1@array-flatten/package.json" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/WiredTiger.wt" afterPath="$PROJECT_DIR$/db/WiredTiger.wt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/_mdb_catalog.wt" afterPath="$PROJECT_DIR$/db/_mdb_catalog.wt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/collection-0--7291038343507143852.wt" afterPath="$PROJECT_DIR$/db/collection-0--7291038343507143852.wt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/index-1--7291038343507143852.wt" afterPath="$PROJECT_DIR$/db/index-1--7291038343507143852.wt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/sizeStorer.wt" afterPath="$PROJECT_DIR$/db/sizeStorer.wt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/WiredTiger.turtle" afterPath="$PROJECT_DIR$/db/WiredTiger.turtle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/mongod.lock" afterPath="$PROJECT_DIR$/db/mongod.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/moduls/category.js" afterPath="$PROJECT_DIR$/moduls/category.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.0.0.10@minimist/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.0.0.10@minimist/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.0.0.1@regexp-clone/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.0.0.1@regexp-clone/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.0.0.2@wordwrap/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.0.0.2@wordwrap/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.0.0.3@wordwrap/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.0.0.3@wordwrap/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.0.0.5@sliced/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.0.0.5@sliced/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.0.1.0@window-size/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.0.1.0@window-size/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.0.1.2@forwarded/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.0.1.2@forwarded/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.0.1.34@source-map/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.0.1.34@source-map/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.0.1.7@path-to-regexp/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.0.1.7@path-to-regexp/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.0.16.1@send/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.0.16.1@send/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.0.2.10@async/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.0.2.10@async/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.0.3.0@media-typer/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.0.3.0@media-typer/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.0.3.0@mpath/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.0.3.0@mpath/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.0.3.1@cookie/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.0.3.1@cookie/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.0.4.19@iconv-lite/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.0.4.19@iconv-lite/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.0.5.0@markdown/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.0.5.0@markdown/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.0.5.2@content-disposition/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.0.5.2@content-disposition/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.0.5.2@fresh/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.0.5.2@fresh/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.0.5.5@mpromise/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.0.5.5@mpromise/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.0.6.1@negotiator/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.0.6.1@negotiator/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.0.6.1@optimist/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.0.6.1@optimist/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.0.7.1@cookies/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.0.7.1@cookies/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.0.0@buffer-shims/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.0.0@buffer-shims/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.0.0@isarray/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.0.0@isarray/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.0.0@unpipe/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.0.0@unpipe/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.0.1@amdefine/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.0.1@amdefine/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.0.1@encodeurl/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.0.1@encodeurl/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.0.1@merge-descriptors/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.0.1@merge-descriptors/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.0.1@require_optional/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.0.1@require_optional/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.0.1@sliced/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.0.1@sliced/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.0.1@utils-merge/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.0.1@utils-merge/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.0.2@core-util-is/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.0.2@core-util-is/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.0.2@keygrip/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.0.2@keygrip/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.0.2@uglify-to-browserify/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.0.2@uglify-to-browserify/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.0.2@util-deprecate/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.0.2@util-deprecate/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.0.3@escape-html/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.0.3@escape-html/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.0.3@setprototypeof/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.0.3@setprototypeof/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.0.3@string_decoder/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.0.3@string_decoder/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.0.4@bson/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.0.4@bson/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.0.4@content-type/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.0.4@content-type/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.0.4@destroy/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.0.4@destroy/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.0.6@cookie-signature/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.0.6@cookie-signature/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.0.7@process-nextick-args/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.0.7@process-nextick-args/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.1.0@finalhandler/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.1.0@finalhandler/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.1.0@setprototypeof/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.1.0@setprototypeof/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.1.1@abbrev/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.1.1@abbrev/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.1.1@array-flatten/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.1.1@array-flatten/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.1.1@depd/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.1.1@depd/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.1.1@ee-first/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.1.1@ee-first/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.1.2@methods/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.1.2@methods/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.1.2@vary/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.1.2@vary/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.13.1@serve-static/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.13.1@serve-static/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.18.2@body-parser/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.18.2@body-parser/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.2.0@decamelize/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.2.0@decamelize/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.2.0@range-parser/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.2.0@range-parser/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.2.1@camelcase/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.2.1@camelcase/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.3.0@muri/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.3.0@muri/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.3.1@statuses/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.3.1@statuses/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.3.2@parseurl/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.3.2@parseurl/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.3.4@accepts/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.3.4@accepts/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.30.0@mime-db/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.30.0@mime-db/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.4.0@statuses/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.4.0@statuses/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.4.1@mime/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.4.1@mime/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.4.2@swig/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.4.2@swig/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.5.0@kareem/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.5.0@kareem/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.5.2@ipaddr.js/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.5.2@ipaddr.js/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.6.15@type-is/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.6.15@type-is/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.6.2@http-errors/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.6.2@http-errors/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.1.8.1@etag/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.1.8.1@etag/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.2.0.0@ms/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.2.0.0@ms/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.2.0.0@resolve-from/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.2.0.0@resolve-from/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.2.0.2@hooks-fixed/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.2.0.2@hooks-fixed/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.2.0.2@proxy-addr/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.2.0.2@proxy-addr/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.2.0.3@inherits/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.2.0.3@inherits/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.2.1.17@mime-types/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.2.1.17@mime-types/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.2.1.17@mongodb-core/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.2.1.17@mongodb-core/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.2.1.2@nopt/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.2.1.2@nopt/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.2.1.4@async/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.2.1.4@async/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.2.2.33@mongodb/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.2.2.33@mongodb/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.2.2.7@readable-stream/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.2.2.7@readable-stream/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.2.3.0@on-finished/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.2.3.0@on-finished/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.2.3.2@mquery/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.2.3.2@mquery/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.2.3.2@raw-body/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.2.3.2@raw-body/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.2.4.24@uglify-js/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.2.4.24@uglify-js/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.2.6.9@debug/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.2.6.9@debug/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.3.0.0@bytes/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.3.0.0@bytes/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.3.2.1@es6-promise/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.3.2.1@es6-promise/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.3.2.1@jquery/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.3.2.1@jquery/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.3.5.1@bluebird/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.3.5.1@bluebird/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.3.5.4@yargs/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.3.5.4@yargs/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.4.13.1@mongoose/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.4.13.1@mongoose/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.4.16.2@express/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.4.16.2@express/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.4.17.4@lodash/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.4.17.4@lodash/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.4.4.2@lodash.get/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.4.4.2@lodash.get/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.5.1.1@safe-buffer/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.5.1.1@safe-buffer/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.5.4.1@semver/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.5.4.1@semver/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.6.5.1@qs/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.6.5.1@qs/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.npminstall.done" afterPath="$PROJECT_DIR$/node_modules/.npminstall.done" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.recently_updates.txt" afterPath="$PROJECT_DIR$/node_modules/.recently_updates.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/ejs/package.json" afterPath="$PROJECT_DIR$/node_modules/ejs/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/base.css" afterPath="$PROJECT_DIR$/public/css/base.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/main.css" afterPath="$PROJECT_DIR$/public/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/main.js" afterPath="$PROJECT_DIR$/public/js/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routers/admin.js" afterPath="$PROJECT_DIR$/routers/admin.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routers/api.js" afterPath="$PROJECT_DIR$/routers/api.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routers/main.js" afterPath="$PROJECT_DIR$/routers/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/schemas/category.js" afterPath="$PROJECT_DIR$/schemas/category.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/schemas/users.js" afterPath="$PROJECT_DIR$/schemas/users.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/admin/add_category.html" afterPath="$PROJECT_DIR$/views/admin/add_category.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/admin/category.html" afterPath="$PROJECT_DIR$/views/admin/category.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/admin/edite_category.html" afterPath="$PROJECT_DIR$/views/admin/edite_category.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/admin/index.html" afterPath="$PROJECT_DIR$/views/admin/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/admin/layout.html" afterPath="$PROJECT_DIR$/views/admin/layout.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/admin/userList.html" afterPath="$PROJECT_DIR$/views/admin/userList.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/index.html" afterPath="$PROJECT_DIR$/views/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/register.html" afterPath="$PROJECT_DIR$/views/register.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -161,86 +30,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app.js">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="34" column="39" lean-forward="true" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="layout.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/admin/layout.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="760">
-              <caret line="40" column="37" lean-forward="false" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="category.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/admin/category.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="userList.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/admin/userList.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="26" column="9" lean-forward="false" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-              <folding>
-                <element signature="e#737#743#1" expanded="true" />
-                <element signature="e#924#930#1" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="add_category.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/admin/add_category.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="edite_category.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/admin/edite_category.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="56" lean-forward="false" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="admin.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/routers/admin.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="102" column="33" lean-forward="true" selection-start-line="102" selection-start-column="33" selection-end-line="102" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="users.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/schemas/users.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="2" />
+            <state relative-caret-position="133">
+              <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -249,9 +43,12 @@
       <file leaf-file-name="api.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routers/api.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="91" column="36" lean-forward="false" selection-start-line="91" selection-start-column="36" selection-end-line="91" selection-end-column="36" />
-              <folding />
+            <state relative-caret-position="76">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding>
+                <element signature="e#372#1630#0" expanded="false" />
+                <element signature="e#1684#2553#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -259,8 +56,18 @@
       <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routers/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+            <state relative-caret-position="171">
+              <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/routers/admin.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="367">
+              <caret line="33" column="10" lean-forward="true" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -304,14 +111,11 @@
         <option value="$PROJECT_DIR$/schemas/users.js" />
         <option value="$PROJECT_DIR$/public/css/base.css" />
         <option value="$PROJECT_DIR$/views/login.html" />
-        <option value="$PROJECT_DIR$/routers/api.js" />
         <option value="$PROJECT_DIR$/public/css/main.css" />
         <option value="$PROJECT_DIR$/public/js/main.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/views/admin/adminUser.html" />
         <option value="$PROJECT_DIR$/views/admin/index.html" />
-        <option value="$PROJECT_DIR$/views/index.html" />
-        <option value="$PROJECT_DIR$/routers/main.js" />
         <option value="$PROJECT_DIR$/views/admin/userList.html" />
         <option value="$PROJECT_DIR$/views/admin/layout.html" />
         <option value="$PROJECT_DIR$/app.js" />
@@ -320,6 +124,9 @@
         <option value="$PROJECT_DIR$/schemas/category.js" />
         <option value="$PROJECT_DIR$/views/admin/category.html" />
         <option value="$PROJECT_DIR$/views/admin/edite_category.html" />
+        <option value="$PROJECT_DIR$/routers/api.js" />
+        <option value="$PROJECT_DIR$/routers/main.js" />
+        <option value="$PROJECT_DIR$/views/index.html" />
         <option value="$PROJECT_DIR$/routers/admin.js" />
       </list>
     </option>
@@ -500,12 +307,13 @@
       <workItem from="1510490063373" duration="7585000" />
       <workItem from="1510532450929" duration="10493000" />
       <workItem from="1510549817873" duration="342000" />
-      <workItem from="1510551518208" duration="17905000" />
+      <workItem from="1510551518208" duration="18559000" />
+      <workItem from="1510661588752" duration="2328000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58945000" />
+    <option name="totallyTimeSpent" value="61927000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -520,12 +328,12 @@
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25553215" sideWeight="0.4888179" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25553215" sideWeight="0.4888179" order="3" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32081544" sideWeight="0.50421494" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32081544" sideWeight="0.49578503" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12802951" sideWeight="0.5111821" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22186495" sideWeight="0.5021075" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12802951" sideWeight="0.5111821" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24920969" sideWeight="0.4944" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.49789253" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12802951" sideWeight="0.5111821" order="1" side_tool="true" content_ui="tabs" />
@@ -599,7 +407,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="19" column="60" lean-forward="false" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -615,7 +422,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="1" column="40" lean-forward="false" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -623,7 +429,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1235">
           <caret line="65" column="34" lean-forward="false" selection-start-line="65" selection-start-column="34" selection-end-line="65" selection-end-column="34" />
-          <folding />
+          <folding>
+            <element signature="e#372#1630#0" expanded="false" />
+            <element signature="e#1684#2553#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -639,7 +448,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
           <caret line="29" column="41" lean-forward="false" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -685,7 +493,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1634">
           <caret line="86" column="17" lean-forward="true" selection-start-line="86" selection-start-column="17" selection-end-line="86" selection-end-column="17" />
-          <folding />
+          <folding>
+            <element signature="e#372#1630#0" expanded="false" />
+            <element signature="e#1684#2553#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -708,7 +519,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="23" column="39" lean-forward="false" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -748,7 +558,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1501">
           <caret line="79" column="36" lean-forward="true" selection-start-line="79" selection-start-column="36" selection-end-line="79" selection-end-column="36" />
-          <folding />
+          <folding>
+            <element signature="e#372#1630#0" expanded="false" />
+            <element signature="e#1684#2553#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -756,7 +569,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="23" column="39" lean-forward="false" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -775,20 +587,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/jquery/dist/jquery.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="1" column="1206" lean-forward="false" selection-start-line="1" selection-start-column="1205" selection-end-line="1" selection-end-column="1209" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/jquery/dist/jquery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-171">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/jquery/dist/jquery.min.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/jquery/dist/jquery.js" />
     <entry file="file://$PROJECT_DIR$/public/js/jquery.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -815,7 +615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="1" column="40" lean-forward="false" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -823,18 +622,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="19" column="60" lean-forward="false" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/js/transition.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="49" column="34" lean-forward="false" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/js/transition.js" />
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -847,7 +638,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="470">
           <caret line="29" column="41" lean-forward="false" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -855,7 +645,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="628" column="28" lean-forward="true" selection-start-line="628" selection-start-column="28" selection-end-line="628" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -863,9 +652,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -873,15 +659,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-266">
-          <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -897,7 +674,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" column="36" lean-forward="true" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -905,22 +681,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routers/api.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="91" column="36" lean-forward="false" selection-start-line="91" selection-start-column="36" selection-end-line="91" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routers/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
           <folding />
         </state>
       </provider>
@@ -945,20 +705,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/admin/userList.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
+        <state relative-caret-position="494">
           <caret line="26" column="9" lean-forward="false" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
           <folding>
             <element signature="e#737#743#1" expanded="true" />
             <element signature="e#924#930#1" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/admin/category.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -970,18 +722,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/views/admin/category.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="34" column="39" lean-forward="true" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+        <state relative-caret-position="652">
+          <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routers/api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="e#372#1630#0" expanded="false" />
+            <element signature="e#1684#2553#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routers/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/routers/admin.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="102" column="33" lean-forward="true" selection-start-line="102" selection-start-column="33" selection-end-line="102" selection-end-column="33" />
+        <state relative-caret-position="367">
+          <caret line="33" column="10" lean-forward="true" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
           <folding />
         </state>
       </provider>

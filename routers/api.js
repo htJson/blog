@@ -3,6 +3,7 @@ const router = express.Router();
 const url=require('url');
 const userModel=require('../moduls/user');
 
+
 // var userArr=['abc','张三','李四']
 var responesData;
 router.use(function(req,res,next){ //注册时的中间件用来接口返回
@@ -12,7 +13,7 @@ router.use(function(req,res,next){ //注册时的中间件用来接口返回
     }
     next();
 })
-
+//注册
 router.post('/user/register',function(req,res,next){
     var data=req.body;
     var reg=/\d{5,10}/;
@@ -72,6 +73,7 @@ router.post('/user/register',function(req,res,next){
 
     })
 })
+//登录
 router.get('/user/login',function(req,res,next){
     var queryData=url.parse(req.url,true).query;
     if(queryData.userName =='' || queryData.password ==''){
@@ -102,9 +104,12 @@ router.get('/user/login',function(req,res,next){
         }
     })
 })
+//退出
 router.get('/user/logout',function(req,res){
     req.cookies.set('userInfo',null);
     res.json(responesData)
     return;
 })
+
+
 module.exports=router;
